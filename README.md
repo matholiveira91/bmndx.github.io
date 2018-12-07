@@ -1,2 +1,2 @@
-# bmndx.github.io
+# http://bmndx.github.io
 Meu portfólio /1
